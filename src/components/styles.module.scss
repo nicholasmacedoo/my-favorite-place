@@ -1,0 +1,11 @@
+.containerModal {
+    height: calc(100vh - 148px);
+    width: 300px;
+    background: #fff;
+    position: absolute;
+    left: 10px;
+    top: 84px;
+    bottom: 0;
+    z-index: 9999;
+    cursor: initial;
+}
